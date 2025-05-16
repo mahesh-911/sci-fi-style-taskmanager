@@ -1,4 +1,4 @@
-# NEO-TASK v3.0
+# sci-fi-task-manager v2.0
 
 ## Overview
 
