@@ -51,7 +51,7 @@ pip install pygame psutil matplotlib pillow numpy
 1. Run the Python script:
 
 ```bash
-python neo_task.py
+python sci-fi-taskmanager.py
 ```
 
 2. The GUI will launch in a sci-fi themed window.
