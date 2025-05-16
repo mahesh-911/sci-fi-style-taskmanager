@@ -48,10 +48,10 @@ pip install pygame psutil matplotlib pillow numpy
 
 ## Usage
 
-1. Run the Python script:
+1. Run the Python script for updated version:
 
 ```bash
-python sci-fi-taskmanager.py
+python sci-fi-taskmanager-version-2.py
 ```
 
 2. The GUI will launch in a sci-fi themed window.
