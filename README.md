@@ -82,7 +82,7 @@ python neo_task.py
 
 ## Author
 
-Made with ❤ by \Mahesh
+Made with ❤ by Mahesh
 
 ## License
 
